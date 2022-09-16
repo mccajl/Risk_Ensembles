@@ -1,0 +1,3 @@
+[submodule "DQN"]
+	path = DQN
+	url = https://github.com/econti/minimal_dqn.git
